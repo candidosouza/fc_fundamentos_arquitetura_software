@@ -34,3 +34,18 @@
 * Analisa os impactos comerciais em relação a uma escolha de tecnolígica
 * Pode participar do processo comercial de pré-venda e venda
 * Analisa os impactos dos custos para o negócio
+
+### Arquitetura Software
+
+* É uma "disciplina" da engenharia de software
+* Diretamente ligada ao processo de desenvolvimento de software
+* Afeta diretamente na estrutura organizacional da empresa
+  * Formação de times
+  * Estrutura dos componentes do software
+  * "Organizações que desenvolvem sistemas de software tendem a produzir sistemas que são cópias das estruturas de comunicação dessas empresas. (Melvin Conway)"
+
+Definição
+
+É a relação entre os objetos de negócio e suas restrições com os componentes a serem criados e suas reponsabilidades visando sua evolução do software
+
+O processo de arquitetar um software estabelece que o que está sendo desenvolvido faça parte de um conjunto maior.
